@@ -1,0 +1,13 @@
+[package]
+name = "rust-gen"
+version = "0.0.0"
+description = "This library aids in generating rust code."
+readme = "README.md"
+repository = "https://github.com/nikdeapen/rust-gen"
+homepage = "https://github.com/nikdeapen/rust-gen"
+authors = ["Nik Deapen <nik@deapen.com>"]
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+
